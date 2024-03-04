@@ -16,8 +16,7 @@
     </div>
     <div class="flex gap-x-4 items-center">
       <a
-        href="https://discord.gg/aZarY8WF2b"
-        target="_blank"
+        href=""
         class="i-logos-discord-icon cursor-pointer text-lg"
       ></a>
     </div>
